@@ -1,0 +1,12 @@
+com\moler\dao\BookDAO.class
+com\moler\service\BookService.class
+com\moler\service\BookServiceImpl.class
+com\moler\service\ClientService.class
+com\moler\dao\BookDAOImpl.class
+com\moler\controller\ClientController.class
+com\moler\controller\BookController.class
+com\moler\dao\ClientDAO.class
+com\moler\dao\ClientDAOImpl.class
+com\moler\entity\Book.class
+com\moler\entity\Client.class
+com\moler\service\ClientServiceImpl.class
